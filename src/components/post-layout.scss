@@ -1,0 +1,18 @@
+.article-container {
+  display: flex;
+  justify-content: center;
+}
+
+article {
+  max-width: 800px;
+  width: 100%;
+
+  h1 {
+    text-align: center;
+  }
+
+  p {
+    color: #3c3c3c;
+    line-height: 24px;
+  }
+}
