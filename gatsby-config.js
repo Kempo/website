@@ -20,15 +20,9 @@ module.exports = {
       }
     },
     {
-      resolve: "gatsby-plugin-page-creator",
-      options: {
-        path: `${__dirname}/src/posts`,
-      },
-    },
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `pages`,
+        name: `posts`,
         path: `${__dirname}/src/posts`
       }
     },

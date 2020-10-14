@@ -31,6 +31,10 @@ function Books() {
         <li><Link to="http://www.paulgraham.com/vb.html">Life is short (Paul Graham)</Link></li>
         <li><Link to="https://www.goodreads.com/book/show/11297.Norwegian_Wood"><strong>Norwegian Wood (Haruki Murakami)</strong></Link></li>
         <li><Link to="https://www.amazon.com/Bipolar-Faith-Womans-Journey-Depression/dp/1506408591">Bipolar Faith (Dr. Monica Coleman)</Link></li>
+        <li><Link to="https://www.goodreads.com/book/show/40180098-the-overstory">The Overstory (Richard Powers)</Link></li>
+        <li><Link to="https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see">All the light we cannot see (Anthony Doerr)</Link></li>
+        <li><Link to="https://www.goodreads.com/book/show/4406.East_of_Eden"><strong>East of Eden (John Steinbeck)</strong></Link></li>
+        <li><Link to="https://www.goodreads.com/book/show/11084145-steve-jobs"><strong>Steve Jobs (Walter Isaacson)</strong></Link></li>
       </ul>
       <p><strong>Artists</strong></p>
       <ul>

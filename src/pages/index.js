@@ -9,13 +9,18 @@ function Home({ data }) {
       <SEO />
       <div style={{ marginBottom: 24 }}>
         <p><strong>Now</strong></p>
-        <p style={{ maxWidth: 600, width: '100%', color: '#3c3c3c' }}> 
+        <p style={{ maxWidth: 600, width: '100%' }}> 
           Hey! My name's Aaron. Right now, I'm taking time off from college to explore new things.
           I code a bit, hoop a little, and (<i>try to</i>) read often.
           On my free time, I cross up neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food.
         </p>
         <a href="https://twitter.com/tweetsbychen">Twitter</a>
-        <p><strong>Thoughts</strong></p>
+        <p><strong>Backyard</strong></p>
+        <p>
+          Stuff I write. Revised & unrevised.
+          <br />
+          Once in a while, I'll come back to them.
+        </p>
         <ul>
         {
           data.MdxFiles.edges.map(el => (
