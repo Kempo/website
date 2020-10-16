@@ -14,7 +14,8 @@ function Home({ data }) {
           I code a bit, hoop a little, and (<i>try to</i>) read often.
           On my free time, I cross up neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food.
         </p>
-        <a href="https://twitter.com/tweetsbychen">Twitter</a>
+        <a href="https://twitter.com/tweetsbychen" style={{ marginRight: 12 }}>Twitter</a>
+        <a href="https://d1k4jmektwx4z1.cloudfront.net/Resume.pdf">Resume</a>
         <p><strong>Backyard</strong></p>
         <p>
           Stuff I write. Revised & unrevised.
