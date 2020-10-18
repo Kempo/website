@@ -29,6 +29,11 @@ function Home({ data }) {
           ))
         }
         </ul>
+        <p><strong>Pending</strong></p>
+        <p>Stuff I'm looking to read.</p>
+        <ul>
+          <li><a href="http://www.foundersatwork.com/steve-wozniak.html">Steve Wozniak Interview</a></li>
+        </ul>
       </div>
     </Layout>
   )
