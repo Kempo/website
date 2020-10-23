@@ -34,6 +34,8 @@ function Home({ data }) {
         <ul>
           <li><a href="http://www.foundersatwork.com/steve-wozniak.html">Steve Wozniak Interview</a></li>
           <li><a href="https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack">Poor Charlie's Almanack</a></li>
+          <li><a href="https://www.goodreads.com/book/show/904538.The_Book_of_Tea">The Book of Tea</a></li>
+          <li><a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens">Something wonderfully incredible happens</a></li>
         </ul>
       </div>
     </Layout>
