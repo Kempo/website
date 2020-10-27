@@ -37,6 +37,8 @@ function Home({ data }) {
           <li><a href="https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack">Poor Charlie's Almanack</a></li>
           <li><a href="https://www.goodreads.com/book/show/904538.The_Book_of_Tea">The Book of Tea</a></li>
           <li><a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens">Something wonderfully incredible happens</a></li>
+          <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
+          <li><a href="https://www.goodreads.com/book/show/40230101-the-mamba-mentality">The Mamba Mentality (Kobe Bryant)</a></li>
         </ul>
       </div>
     </Layout>

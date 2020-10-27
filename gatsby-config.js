@@ -60,6 +60,13 @@ module.exports = {
         crossOrigin: `use-credentials`,
       }
     },
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        // replace `UA-XXXXXXXXX-X` with your own Google Analytics Tracking ID
+        trackingId: `G-EJ4YJQGFG0`,
+      },
+    },
     `gatsby-plugin-sass`,
     `gatsby-transformer-sharp`, 
     `gatsby-plugin-sharp`,

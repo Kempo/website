@@ -38,6 +38,9 @@ function Books() {
         <li><Link to="https://www.goodreads.com/book/show/41022133-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage">Colorless (Haruki Murakami)</Link></li>
       </ul>
       <p><strong>Artists</strong></p>
+      <p>People I admire. </p>
+      <p>From cinematic directors to musical composers and basketball players.</p>
+      <hr style={{ width: 30, margin: '24px 0px' }}/>
       <ul>
         <li>Zach Hemsey</li>
         <li>Christopher Nolan</li>
@@ -47,6 +50,8 @@ function Books() {
         <li>Clint Mansell</li>
         <li>Haruki Murakami</li>
         <li>The Beatles</li>
+        <li>Kobe Bryant</li>
+        <li>Teddy Santis</li>
       </ul>
     </Layout>
   )
