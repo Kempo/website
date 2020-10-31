@@ -16,7 +16,8 @@ function Home({ data }) {
         </p>
         <a href="https://twitter.com/tweetsbychen" style={{ marginRight: 12 }}>Twitter</a>
         <a href="/resume.pdf" style={{ marginRight: 12 }}>Resume</a>
-        <a href="mailto:ilestkempo@gmail.com">Email</a>
+        <a href="mailto:ilestkempo@gmail.com" style={{ marginRight: 12 }}>Email</a>
+        <a href="https://github.com/kempo">Github</a>
         <p><strong>Backyard</strong></p>
         <p>
           Stuff I write. Revised & unrevised.
@@ -38,7 +39,6 @@ function Home({ data }) {
           <li><a href="https://www.goodreads.com/book/show/904538.The_Book_of_Tea">The Book of Tea</a></li>
           <li><a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens">Something wonderfully incredible happens</a></li>
           <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
-          <li><a href="https://www.goodreads.com/book/show/40230101-the-mamba-mentality">The Mamba Mentality (Kobe Bryant)</a></li>
         </ul>
       </div>
     </Layout>

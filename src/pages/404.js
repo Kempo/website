@@ -5,7 +5,7 @@ function NotFound() {
   return (
     <Layout>
       <h1>Whoops!</h1>
-      <p>Looks like no page exists here.</p>
+      <p>Nothing exists here.</p>
     </Layout>
   )
 }
