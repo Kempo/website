@@ -11,7 +11,7 @@ function Books() {
         Tidbits of knowledge and people that I've appreciated.
         <br />
         <br />
-        From software to entrepreneurship to the human condition.
+        From software to entrepreneurship, to the human condition.
       </p>
       <p><strong>Talks</strong></p>
       <ul>
