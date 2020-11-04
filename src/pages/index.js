@@ -9,9 +9,8 @@ function Home({ data }) {
       <SEO />
       <div style={{ marginBottom: 24 }}>
         <p><strong>Now</strong></p>
-        <p style={{ maxWidth: 600, width: '100%' }}> 
-          Hey! My name's Aaron. Right now, I'm taking time off from college to explore new things.
-          I code a bit, hoop a little, and (<i>try to</i>) read often.
+        <p style={{ maxWidth: 500, width: '100%' }}> 
+          Hey! My name's Aaron. I code a bit, hoop a little, and (<i>try to</i>) read often.
           On my free time, I cross up neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food.
         </p>
         <a href="https://twitter.com/tweetsbychen" style={{ marginRight: 12 }}>Twitter</a>
