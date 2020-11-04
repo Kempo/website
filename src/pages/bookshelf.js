@@ -37,6 +37,7 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/41022133-colorless-tsukuru-tazaki-and-his-years-of-pilgrimage">Colorless (Haruki Murakami)</a></li>
         <li><a href="https://www.goodreads.com/book/show/42046112-recursion">Recursion (Blake Crouch)</a></li>
         <li><a href="https://www.goodreads.com/book/show/40230101-the-mamba-mentality">The Mamba Mentality (Kobe Bryant)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/37004370-the-memory-police">The Memory Police (Yoko Ogawa)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
