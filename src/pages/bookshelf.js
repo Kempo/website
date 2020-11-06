@@ -18,6 +18,7 @@ function Books() {
         <li><a href="https://www.youtube.com/watch?v=3qHkcs3kG44">Naval Ravikant</a></li>
         <li><a href="https://www.youtube.com/watch?v=efs3QRr8LWw">Edward Snowden</a></li>
         <li><a href="https://www.perell.com/podcast/jason-fried">Jason Fried</a></li>
+        <li><a href="https://www.youtube.com/watch?v=ji5_MqicxSo">Randy Pausch</a></li>
       </ul>
       <p><strong>Texts</strong></p>
       <ul>
