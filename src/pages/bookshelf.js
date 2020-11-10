@@ -55,6 +55,7 @@ function Books() {
         <li>The Beatles</li>
         <li>Kobe Bryant</li>
         <li>Teddy Santis</li>
+        <li>Wes Anderson</li>
       </ul>
     </Layout>
   )
