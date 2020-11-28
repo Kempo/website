@@ -26,7 +26,7 @@ function Home({ data }) {
         <ul>
         {
           data.MdxFiles.edges.map(el => (
-            <li key={el.node.frontmatter.title}><a href={el.node.frontmatter.path}>{el.node.frontmatter.title}</a></li>
+            el.node.frontmatter.publish && <li key={el.node.frontmatter.title}><a href={el.node.frontmatter.path}>{el.node.frontmatter.title}</a></li>
           ))
         }
         </ul>
@@ -41,6 +41,7 @@ function Home({ data }) {
           <li><a href="https://www.goodreads.com/book/show/36064445-skin-in-the-game">Skin in the Game (Nassim Taleb)</a></li>
           <li><a href="https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo">The Count of Monte Cristo</a></li>
           <li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment">Crime and Punishment (Fyodor Dostoyevsky)</a></li>
+          <li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment">Delivering Happiness (Tony Hsieh)</a></li>
         </ul>
       </div>
     </Layout>
@@ -56,6 +57,7 @@ export const query = graphql`
             title
             date
             path
+            publish
           }
         }
       }
