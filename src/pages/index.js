@@ -35,13 +35,12 @@ function Home({ data }) {
         <ul>
           <li><a href="http://www.foundersatwork.com/steve-wozniak.html">Steve Wozniak Interview</a></li>
           <li><a href="https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack">Poor Charlie's Almanack</a></li>
-          <li><a href="https://www.goodreads.com/book/show/904538.The_Book_of_Tea">The Book of Tea</a></li>
           <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
           <li><a href="https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity">The Beginning of Infinity (David Deutsch)</a></li>
           <li><a href="https://www.goodreads.com/book/show/36064445-skin-in-the-game">Skin in the Game (Nassim Taleb)</a></li>
           <li><a href="https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo">The Count of Monte Cristo</a></li>
           <li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment">Crime and Punishment (Fyodor Dostoyevsky)</a></li>
-          <li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment">Delivering Happiness (Tony Hsieh)</a></li>
+          <li><a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things">The Design of Everyday Things (Donald Norman)</a></li>
         </ul>
       </div>
     </Layout>

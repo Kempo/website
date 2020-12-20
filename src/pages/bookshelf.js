@@ -41,6 +41,8 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/37004370-the-memory-police">The Memory Police (Yoko Ogawa)</a></li>
         <li><a href="https://juliagalef.com/2017/02/21/the-answer-to-life-the-universe-and-everything/">The answer to life (Julia Galef)</a></li>
         <li><a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens">Something wonderfully incredible happens (Frank Oppenheimer)</a></li>
+        <li><a href="https://www.theobservereffect.org/tobi.html">Interview with Tobi Lutke</a></li>
+        <li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment">Delivering Happiness (Tony Hsieh)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
