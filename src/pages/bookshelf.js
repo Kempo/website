@@ -43,6 +43,7 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens">Something wonderfully incredible happens (Frank Oppenheimer)</a></li>
         <li><a href="https://www.theobservereffect.org/tobi.html">Interview with Tobi Lutke</a></li>
         <li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment">Delivering Happiness (Tony Hsieh)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/51151761-the-nolan-variations"><b>The Nolan Variations (Tom Shone)</b></a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
@@ -60,6 +61,7 @@ function Books() {
         <li>Kobe Bryant</li>
         <li>Teddy Santis</li>
         <li>Wes Anderson</li>
+        <li>Max Richter</li>
       </ul>
     </Layout>
   )
