@@ -45,6 +45,9 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/6828896-delivering-happiness">Delivering Happiness (Tony Hsieh)</a></li>
         <li><a href="https://www.goodreads.com/book/show/51151761-the-nolan-variations"><b>The Nolan Variations (Tom Shone)</b></a></li>
         <li><a href="https://www.goodreads.com/book/show/7144.Crime_and_Punishment">Crime and Punishment (Fyodor Dostoyevsky)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/54505323-invent-and-wander">Invent and Wander (Jeff Bezos)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/41793.Hackers_Painters">Hackers and Painters (Paul Graham)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/23281639-the-upside-of-stress"><b>The Upside of Stress (Kelly McGonigal)</b></a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
@@ -63,6 +66,7 @@ function Books() {
         <li>Teddy Santis</li>
         <li>Wes Anderson</li>
         <li>Max Richter</li>
+        <li>Daniel Day-Lewis</li>
       </ul>
     </Layout>
   )
