@@ -49,6 +49,7 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/41793.Hackers_Painters">Hackers and Painters (Paul Graham)</a></li>
         <li><a href="https://www.goodreads.com/book/show/23281639-the-upside-of-stress"><b>The Upside of Stress (Kelly McGonigal)</b></a></li>
         <li><a href="https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things">The Design of Everyday Things (Donald Norman)</a></li>
+        <li><a href="https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me">Tesla's Secret Master Plan</a> / <a href="https://www.tesla.com/blog/master-plan-part-deux">(Part 2)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
