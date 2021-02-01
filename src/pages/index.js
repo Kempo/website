@@ -24,11 +24,14 @@ function Home({ data }) {
           Once in a while, I'll come back to them.
         </p>
         <ul>
+        ...
+        {/* 
         {
           data.MdxFiles.edges.map(el => (
             el.node.frontmatter.publish && <li key={el.node.frontmatter.title}><a href={el.node.frontmatter.path}>{el.node.frontmatter.title}</a></li>
           ))
         }
+        */}
         </ul>
         <p><strong>Pending</strong></p>
         <p>Stuff I'm looking to read.</p>
