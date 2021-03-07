@@ -38,7 +38,7 @@ function Home({ data }) {
         <ul>
           <li><a href="https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack">Poor Charlie's Almanack</a></li>
           <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
-          <li><a href="https://www.goodreads.com/book/show/36064445-skin-in-the-game">Skin in the Game (Nassim Taleb)</a></li>
+          <li><a href="https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories">The Aleph (Jorge Luis Borges)</a></li>
           <li><a href="https://www.amazon.com/Piece-Action-Middle-Class-Joined-ebook/dp/B00AYIDT74">A piece of the Action (Joseph Nocero)</a></li>
           <li><a href="https://www.goodreads.com/book/show/24113.G_del_Escher_Bach">Gödel, Escher, Bach (Douglas Hofstadter)</a></li>
         </ul>
