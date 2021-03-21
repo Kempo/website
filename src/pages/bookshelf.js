@@ -71,6 +71,7 @@ function Books() {
         <li>Wes Anderson</li>
         <li>Max Richter</li>
         <li>Daniel Day-Lewis</li>
+        <li>Ludovico Einaudi</li>
       </ul>
     </Layout>
   )
