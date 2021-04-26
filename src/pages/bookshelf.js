@@ -40,7 +40,7 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/40230101-the-mamba-mentality">The Mamba Mentality (Kobe Bryant)</a></li>
         <li><a href="https://www.goodreads.com/book/show/37004370-the-memory-police">The Memory Police (Yoko Ogawa)</a></li>
         <li><a href="https://juliagalef.com/2017/02/21/the-answer-to-life-the-universe-and-everything/">The answer to life (Julia Galef)</a></li>
-        <li><a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens">Something wonderfully incredible happens (Frank Oppenheimer)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens"><b>Something wonderfully incredible happens (Frank Oppenheimer)</b></a></li>
         <li><a href="https://www.theobservereffect.org/tobi.html"><b>Interview with Tobi Lutke</b></a></li>
         <li><a href="https://www.goodreads.com/book/show/6828896-delivering-happiness">Delivering Happiness (Tony Hsieh)</a></li>
         <li><a href="https://www.goodreads.com/book/show/51151761-the-nolan-variations"><b>The Nolan Variations (Tom Shone)</b></a></li>
@@ -53,6 +53,7 @@ function Books() {
         <li><a href="http://www.aaronsw.com/weblog/2taste">Two Conceptions of Taste (Aaron Swartz)</a></li>
         <li><a href="http://paulgraham.com/worked.html">What I worked on (Paul Graham)</a></li>
         <li><a href="https://wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/">What Happened to Lee Holloway</a></li>
+        <li><a href="https://www.amazon.com/Scout-Mindset-People-Things-Clearly-ebook/dp/B07L2HQ26K">The Scout Mindset (Julia Galef)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
@@ -73,6 +74,7 @@ function Books() {
         <li>Max Richter</li>
         <li>Daniel Day-Lewis</li>
         <li>Ludovico Einaudi</li>
+        <li>James Turrell</li>
       </ul>
     </Layout>
   )

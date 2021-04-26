@@ -40,7 +40,6 @@ function Home({ data }) {
           <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
           <li><a href="https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories">The Aleph (Jorge Luis Borges)</a></li>
           <li><a href="https://www.amazon.com/Piece-Action-Middle-Class-Joined-ebook/dp/B00AYIDT74">A piece of the Action (Joseph Nocero)</a></li>
-          <li><a href="https://www.amazon.com/Scout-Mindset-People-Things-Clearly-ebook/dp/B07L2HQ26K">The Scout Mindset (Julia Galef)</a></li>
           <li><a href="https://www.goodreads.com/book/show/37638098-creative-selection">Creative Selection (Ken Kocienda)</a></li>
         </ul>
       </div>

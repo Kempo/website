@@ -4,6 +4,44 @@ html { font-family: 'Inter', sans-serif; }
   html { font-family: 'Inter var', sans-serif; }
 }
 
+@media only screen and (max-width: 600px) {
+
+  .container {
+    .content {
+      margin: 24px 12px 0px 12px;
+
+      header {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center; 
+    
+        p {
+          margin-bottom: 24px;
+          text-align: center;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .container {
+    .content {
+      margin: 72px 12px 0px 12px;
+      header {
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: space-between;
+    
+        p {
+          margin-bottom: 0px;
+          text-align: left;
+        }
+      }
+    }
+  }
+}
+
 .container {
   background-color: white;
   display: flex;
@@ -12,7 +50,6 @@ html { font-family: 'Inter', sans-serif; }
 }
 
 .content {
-  margin: 72px 12px 0px 12px;
   max-width: 900px;
   width: 100%;
 }
@@ -40,13 +77,6 @@ ul {
 header {
   color: black;
   display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: space-between;
-
-  p {
-    margin: 0px;
-  }
 
   .navigation {
     ul, li {
