@@ -36,10 +36,8 @@ function Home({ data }) {
         <p><strong>Pending</strong></p>
         <p>Stuff I'm looking to read.</p>
         <ul>
-          <li><a href="https://www.goodreads.com/book/show/944652.Poor_Charlie_s_Almanack">Poor Charlie's Almanack</a></li>
+          <li><a href="https://www.goodreads.com/book/show/144409.From_Third_World_to_First">From Third World to First (Lee Kuan Yew)</a></li>
           <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
-          <li><a href="https://www.goodreads.com/book/show/5787.The_Aleph_and_Other_Stories">The Aleph (Jorge Luis Borges)</a></li>
-          <li><a href="https://www.amazon.com/Piece-Action-Middle-Class-Joined-ebook/dp/B00AYIDT74">A piece of the Action (Joseph Nocero)</a></li>
           <li><a href="https://www.goodreads.com/book/show/37638098-creative-selection">Creative Selection (Ken Kocienda)</a></li>
         </ul>
       </div>
