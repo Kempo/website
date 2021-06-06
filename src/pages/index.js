@@ -39,6 +39,7 @@ function Home({ data }) {
           <li><a href="https://www.goodreads.com/book/show/23261448-the-science-of-interstellar">The science of Interstellar (Kip Thorne)</a></li>
           <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
           <li><a href="https://www.goodreads.com/book/show/37638098-creative-selection">Creative Selection (Ken Kocienda)</a></li>
+          <li><a href="https://www.goodreads.com/en/book/show/10379147-lee-kuan-yew">Hard Truths to keep Singapore Going (Lee Kuan Yew)</a></li>
         </ul>
       </div>
     </Layout>
