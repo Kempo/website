@@ -52,10 +52,10 @@ function Books() {
         <li><a href="https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me">Tesla's Secret Master Plan</a> / <a href="https://www.tesla.com/blog/master-plan-part-deux">(Part 2)</a></li>
         <li><a href="http://www.aaronsw.com/weblog/2taste">Two Conceptions of Taste (Aaron Swartz)</a></li>
         <li><a href="http://paulgraham.com/worked.html">What I worked on (Paul Graham)</a></li>
-        <li><a href="https://wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/">What Happened to Lee Holloway</a></li>
+        <li><a href="https://wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/"><b>What Happened to Lee Holloway</b></a></li>
         <li><a href="https://www.amazon.com/Scout-Mindset-People-Things-Clearly-ebook/dp/B07L2HQ26K">The Scout Mindset (Julia Galef)</a></li>
         <li><a href="https://www.goodreads.com/book/show/144409.From_Third_World_to_First"><b>From Third World to First (Lee Kuan Yew)</b></a></li>
-        <li><a href="https://www.goodreads.com/book/show/33313.Kitchen_Confidential">Kitchen Confidential (Anthony Bourdain)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/33313.Kitchen_Confidential"><b>Kitchen Confidential (Anthony Bourdain)</b></a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
