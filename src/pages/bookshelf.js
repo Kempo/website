@@ -55,6 +55,7 @@ function Books() {
         <li><a href="https://wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/">What Happened to Lee Holloway</a></li>
         <li><a href="https://www.amazon.com/Scout-Mindset-People-Things-Clearly-ebook/dp/B07L2HQ26K">The Scout Mindset (Julia Galef)</a></li>
         <li><a href="https://www.goodreads.com/book/show/144409.From_Third_World_to_First"><b>From Third World to First (Lee Kuan Yew)</b></a></li>
+        <li><a href="https://www.goodreads.com/book/show/33313.Kitchen_Confidential">Kitchen Confidential (Anthony Bourdain)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
