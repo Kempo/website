@@ -14,7 +14,6 @@ function Home({ data }) {
           On my free time, I cross up neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food.
         </p>
         <a href="https://twitter.com/tweetsbychen" style={{ marginRight: 12 }}>Twitter</a>
-        <a href="/resume.pdf" style={{ marginRight: 12 }}>Resume</a>
         <a href="mailto:ilestkempo@gmail.com" style={{ marginRight: 12 }}>Email</a>
         <a href="https://github.com/kempo">Github</a>
         <p><strong>Backyard</strong></p>
@@ -39,7 +38,6 @@ function Home({ data }) {
           <li><a href="https://www.goodreads.com/book/show/23261448-the-science-of-interstellar">The science of Interstellar (Kip Thorne)</a></li>
           <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
           <li><a href="https://www.goodreads.com/book/show/37638098-creative-selection">Creative Selection (Ken Kocienda)</a></li>
-          <li><a href="https://www.goodreads.com/en/book/show/10379147-lee-kuan-yew">Hard Truths to keep Singapore Going (Lee Kuan Yew)</a></li>
         </ul>
       </div>
     </Layout>
