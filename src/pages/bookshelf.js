@@ -53,9 +53,11 @@ function Books() {
         <li><a href="http://www.aaronsw.com/weblog/2taste">Two Conceptions of Taste (Aaron Swartz)</a></li>
         <li><a href="http://paulgraham.com/worked.html">What I worked on (Paul Graham)</a></li>
         <li><a href="https://wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/"><b>What Happened to Lee Holloway</b></a></li>
-        <li><a href="https://www.amazon.com/Scout-Mindset-People-Things-Clearly-ebook/dp/B07L2HQ26K">The Scout Mindset (Julia Galef)</a></li>
         <li><a href="https://www.goodreads.com/book/show/144409.From_Third_World_to_First"><b>From Third World to First (Lee Kuan Yew)</b></a></li>
         <li><a href="https://www.goodreads.com/book/show/33313.Kitchen_Confidential"><b>Kitchen Confidential (Anthony Bourdain)</b></a></li>
+        <li><a href="https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day"><b>The Remains of the Day (Kazuo Ishiguro)</b></a></li>
+        <li><a href="https://www.goodreads.com/book/show/967775.How_to_Read_the_Bible">How to read the Bible (James Kugel)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/10379147-lee-kuan-yew">Lee Kuan Yew: Hard Truths To Keep Singapore Going</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
