@@ -58,6 +58,8 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day"><b>The Remains of the Day (Kazuo Ishiguro)</b></a></li>
         <li><a href="https://www.goodreads.com/book/show/967775.How_to_Read_the_Bible">How to read the Bible (James Kugel)</a></li>
         <li><a href="https://www.goodreads.com/book/show/10379147-lee-kuan-yew">Lee Kuan Yew: Hard Truths To Keep Singapore Going</a></li>
+        <li><a href="https://simonsarris.substack.com/p/familiarity-and-belonging">Familiarity and Belonging (Simon Sarris)</a></li>
+        <li><a href="https://simonsarris.substack.com/p/where-to-live">Where to Live (Simon Sarris)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>

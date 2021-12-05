@@ -19,13 +19,16 @@ export default function Checklist() {
         <li>Mulholland Drive</li>
         <li>Hollyhock House</li>
         <li>NYC Comedy Club (Comedy Cellar, etc)</li>
-        <li>Eat pinsa</li>
+        <li>Eat pinsa and try true Chicago deep dish</li>
         <li>Learn a style of dancing (salsa?)</li>
         <li>Get the materials for a hoodie and sew it from scratch</li>
         <li>Write a book</li>
         <li>Learn how to make ceramics (ie. cups)</li>
         <li>Thrifting in Shibuya</li>
         <li>Try true Texas barbeque</li>
+        <li>Visit Italy and try bolognese</li>
+        <li>Do 20 pull ups</li>
+        <li>Visit India and try chai</li>
       </ul>
     </Layout>
   )
