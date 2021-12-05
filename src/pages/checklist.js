@@ -29,6 +29,7 @@ export default function Checklist() {
         <li>Visit Italy and try bolognese</li>
         <li>Do 20 pull ups</li>
         <li>Visit India and try chai</li>
+        <li>Own a study cafe near a college</li>
       </ul>
     </Layout>
   )
