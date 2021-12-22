@@ -17,20 +17,16 @@ function Home({ data }) {
         <a href="mailto:ilestkempo@gmail.com" style={{ marginRight: 12 }}>Email</a>
         <a href="https://github.com/kempo">Github</a>
         <p><strong>Backyard</strong></p>
-        <p>
-          Stuff I write. Revised & unrevised.
-          <br />
-          Once in a while, I'll come back to them.
-        </p>
+        <p>Stuff I like (a brief list).</p>
         <ul>
-        ...
-        {/* 
-        {
-          data.MdxFiles.edges.map(el => (
-            el.node.frontmatter.publish && <li key={el.node.frontmatter.title}><a href={el.node.frontmatter.path}>{el.node.frontmatter.title}</a></li>
-          ))
-        }
-        */}
+          <li><a href="https://www.youtube.com/watch?v=6BPKPb_RTwI">Drive My Car (trailer)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=oihHs2Errwk">Burning (trailer)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=CQXSforT_qQ">If Beale Street Could Talk (trailer)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=Ubjylmxrj9o">A Catalogue of Afternoons (music)</a></li>
+          <li><a href="https://www.lauraberger.com/">Laura Berger (art)</a></li>
+          <li><a href="https://www.aimeleondore.com/">Aime Leon Dore (clothing)</a></li>
+          <li><a href="https://www.instagram.com/ilcorvopasta/?hl=en">Il Corvo (food)</a></li>
+          <li><a href="https://www.muji.com/">Muji (clothing)</a></li>
         </ul>
         <p><strong>Pending</strong></p>
         <p>Stuff I'm looking to read.</p>
