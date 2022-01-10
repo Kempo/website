@@ -60,6 +60,7 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/10379147-lee-kuan-yew">Lee Kuan Yew: Hard Truths To Keep Singapore Going</a></li>
         <li><a href="https://simonsarris.substack.com/p/familiarity-and-belonging">Familiarity and Belonging (Simon Sarris)</a></li>
         <li><a href="https://simonsarris.substack.com/p/where-to-live">Where to Live (Simon Sarris)</a></li>
+        <li><a href="https://moxie.org/stories.html">Stories of Life (Moxie Marlinspike)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
@@ -81,6 +82,7 @@ function Books() {
         <li>Daniel Day-Lewis</li>
         <li>Ludovico Einaudi</li>
         <li>James Turrell</li>
+        <li>Kazuo Ishiguro</li>
       </ul>
     </Layout>
   )

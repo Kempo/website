@@ -27,11 +27,12 @@ function Home({ data }) {
           <li><a href="https://www.aimeleondore.com/">Aime Leon Dore (clothing)</a></li>
           <li><a href="https://www.instagram.com/ilcorvopasta/?hl=en">Il Corvo (food)</a></li>
           <li><a href="https://www.muji.com/">Muji (clothing)</a></li>
+          <li><a href="https://www.youtube.com/c/Shiftteamhq">In the Lab (basketball)</a></li>
+          <li><a href="https://www.rottentomatoes.com/m/dune_2021">Dune (movie)</a></li>
         </ul>
         <p><strong>Pending</strong></p>
         <p>Stuff I'm looking to read.</p>
         <ul>
-          <li><a href="https://www.goodreads.com/book/show/52838315-greenlights">Greenlights (Matthew McConaughey)</a></li>
           <li><a href="https://www.goodreads.com/book/show/37638098-creative-selection">Creative Selection (Ken Kocienda)</a></li>
           <li><a href="https://www.goodreads.com/book/show/42036377-where-is-my-flying-car">Where is my Flying Car? (Hall)</a></li>
         </ul>
