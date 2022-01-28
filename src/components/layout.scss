@@ -35,6 +35,7 @@ html { font-family: 'Inter', sans-serif; }
     
         p {
           margin-bottom: 0px;
+          margin-top: 0px;
           text-align: left;
         }
       }
@@ -50,11 +51,12 @@ html { font-family: 'Inter', sans-serif; }
 }
 
 .content {
-  max-width: 900px;
+  max-width: 800px;
   width: 100%;
 }
 
 body {
+  color: #323232;
   margin: 0px;
 }
 
@@ -67,7 +69,7 @@ ul {
 .home {
   color: #d7d7d7;
   transition: color 500ms;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .home:hover {
@@ -75,7 +77,6 @@ ul {
 }
 
 header {
-  color: black;
   display: flex;
 
   .navigation {

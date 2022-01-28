@@ -35,6 +35,7 @@ function Home({ data }) {
         <ul>
           <li><a href="https://www.goodreads.com/book/show/37638098-creative-selection">Creative Selection (Ken Kocienda)</a></li>
           <li><a href="https://www.goodreads.com/book/show/42036377-where-is-my-flying-car">Where is my Flying Car? (Hall)</a></li>
+          <li><a href="https://www.goodreads.com/book/show/88546.Forbidden_Nation">Forbidden Nation: A History of Taiwan</a></li>
         </ul>
       </div>
     </Layout>

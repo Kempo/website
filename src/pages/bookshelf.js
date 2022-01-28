@@ -61,6 +61,8 @@ function Books() {
         <li><a href="https://simonsarris.substack.com/p/familiarity-and-belonging">Familiarity and Belonging (Simon Sarris)</a></li>
         <li><a href="https://simonsarris.substack.com/p/where-to-live">Where to Live (Simon Sarris)</a></li>
         <li><a href="https://moxie.org/stories.html">Stories of Life (Moxie Marlinspike)</a></li>
+        <li><a href="https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance">Zen and the Art of Motorcycle Maintenance</a></li>
+        <li><a href="https://www.goodreads.com/book/show/18774964-a-man-called-ove">A Man Called Ove</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
@@ -83,6 +85,10 @@ function Books() {
         <li>Ludovico Einaudi</li>
         <li>James Turrell</li>
         <li>Kazuo Ishiguro</li>
+        <li>Laura Berger</li>
+        <li>Dee Hock</li>
+        <li>Paul Graham</li>
+        <li>Jamal Crawford</li>
       </ul>
     </Layout>
   )
