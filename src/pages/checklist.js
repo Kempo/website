@@ -18,7 +18,7 @@ export default function Checklist() {
         <li>Hikaru Museum</li>
         <li>Mulholland Drive</li>
         <li>Hollyhock House</li>
-        <li>NYC Comedy Club (Comedy Cellar, etc)</li>
+        <li>NYC Comedy Clubs</li>
         <li>Eat pinsa and try true Chicago deep dish</li>
         <li>Learn a style of dancing (salsa?)</li>
         <li>Get the materials for a hoodie and sew it from scratch</li>
@@ -30,6 +30,8 @@ export default function Checklist() {
         <li>Do 20 pull ups</li>
         <li>Visit India and try chai</li>
         <li>Own a study cafe near a college</li>
+        <li>Make pasta from scratch</li>
+        <li>Make the perfect milk tea</li>
       </ul>
     </Layout>
   )
