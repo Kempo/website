@@ -32,6 +32,9 @@ export default function Checklist() {
         <li>Own a study cafe near a college</li>
         <li>Make pasta from scratch</li>
         <li>Make the perfect milk tea</li>
+        <li>Make a wooden spoon</li>
+        <li>See how Christopher Nolan works</li>
+        <li>Relearn the piano</li>
       </ul>
     </Layout>
   )
