@@ -21,11 +21,11 @@ export default function Checklist() {
         <li>NYC Comedy Clubs</li>
         <li>Eat pinsa and try true Chicago deep dish</li>
         <li>Learn a style of dancing (salsa?)</li>
-        <li>Get the materials for a hoodie and sew it from scratch</li>
+        <li>Learn to make an 18oz+ french terry hoodie</li>
         <li>Write a book</li>
         <li>Learn how to make ceramics (ie. cups)</li>
         <li>Thrifting in Shibuya</li>
-        <li>Try true Texas barbeque</li>
+        <li>Try true Texas barbeque (brisket especially!)</li>
         <li>Visit Italy and try bolognese</li>
         <li>Do 20 pull ups</li>
         <li>Visit India and try chai</li>
@@ -35,6 +35,8 @@ export default function Checklist() {
         <li>Make a wooden spoon</li>
         <li>See how Christopher Nolan works</li>
         <li>Relearn the piano</li>
+        <li>Watch the Before Trilogy with Ethan Hawke</li>
+        <li>Meet and genuinely learn the life of someone near end-of-life</li>
       </ul>
     </Layout>
   )
