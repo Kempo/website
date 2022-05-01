@@ -31,6 +31,7 @@ function Home({ data }) {
           <li><a href="https://www.muji.com/">Muji (clothing)</a></li>
           <li><a href="https://www.youtube.com/c/Shiftteamhq">In the Lab (basketball)</a></li>
           <li><a href="https://www.rottentomatoes.com/m/dune_2021">Dune (movie)</a></li>
+          <li><a href="https://www.rottentomatoes.com/m/nocturnal_animals">Nocturnal Animals (movie)</a></li>
         </ul>
         <p><strong>Pending</strong></p>
         <p>Stuff I'm looking to read.</p>
