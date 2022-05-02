@@ -37,6 +37,7 @@ export default function Checklist() {
         <li>Relearn the piano</li>
         <li>Watch the Before Trilogy with Ethan Hawke</li>
         <li>Meet and genuinely learn the life of someone near end-of-life</li>
+        <li>Test screen movies</li>
       </ul>
     </Layout>
   )
