@@ -25,7 +25,7 @@ function Books() {
         <li><a href="http://www.metastatic.org/text/This%20is%20Water.pdf"><b>This is Water (David Foster Wallace)</b></a></li>
         <li><a href="https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X">The Lessons of History (Will & Ariel Durant)</a></li>
         <li><a href="https://andymatuschak.org/books/">Andy Matsuchak on Books</a></li>
-        <li><a href="https://sive.rs/kimo"><b>There is no Speed Limit</b></a></li>
+        <li><a href="https://sive.rs/kimo"><b>There is no speed limit (Derek Sivers)</b></a></li>
         <li><a href="https://sriramk.com/memos/zuck-messenger-ecosystem.pdf">Mark Zuckerberg on monetizing the Messenger ecosystem</a></li>
         <li><a href="https://sriramk.com/memos/BuffettRaikesemails.pdf">Warren Buffet & Jeff Zaikes on investment in Microsoft</a></li>
         <li><a href="https://www.goodreads.com/book/show/2547.The_Prophet">The Prophet (Gibran Khalil)</a></li>
