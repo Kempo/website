@@ -21,7 +21,6 @@ function Home({ data }) {
         <ul>
           <li><a href="https://www.youtube.com/watch?v=6BPKPb_RTwI">Drive My Car (trailer)</a></li>
           <li><a href="https://www.youtube.com/watch?v=oihHs2Errwk">Burning (trailer)</a></li>
-          <li><a href="https://www.instagram.com/mmacayres/?hl=en">Mac Ayres (music)</a></li>
           <li><a href="https://www.youtube.com/watch?v=CQXSforT_qQ">If Beale Street Could Talk (trailer)</a></li>
           <li><a href="https://www.youtube.com/watch?v=Ubjylmxrj9o">A Catalogue of Afternoons (music)</a></li>
           <li><a href="https://www.lauraberger.com/">Laura Berger (art)</a></li>
