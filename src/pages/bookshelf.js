@@ -22,6 +22,7 @@ function Books() {
       </ul>
       <p><strong>Texts</strong></p>
       <ul>
+        <li>Kevin Kelly's <a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">bits</a> <a href="https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/">of</a> <a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">advice</a></li>
         <li><a href="http://www.metastatic.org/text/This%20is%20Water.pdf"><b>This is Water (David Foster Wallace)</b></a></li>
         <li><a href="https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X">The Lessons of History (Will & Ariel Durant)</a></li>
         <li><a href="https://andymatuschak.org/books/">Andy Matsuchak on Books</a></li>
