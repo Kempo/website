@@ -23,14 +23,13 @@ export default function Checklist() {
         <li>Try true Chicago deep dish (Pequods!?)</li>
         <li>Learn a style of dancing (salsa?)</li>
         <li>Learn to make an 18oz+ french terry hoodie</li>
-        <li>Write a book</li>
         <li>Learn how to make ceramics (ie. cups)</li>
         <li>Thrifting in Shibuya</li>
         <li>Try true Texas barbeque (brisket especially!)</li>
         <li>Visit Italy and try bolognese</li>
         <li>Do 15 pull ups</li>
-        <li>Do 20 pull ups</li>
-        <li>Visit India and try chai</li>
+        <li>Do 30 pull ups</li>
+        <li>Visit India (try the chai & curries)</li>
         <li>Own a study cafe near a college</li>
         <li><s>Make pasta from scratch</s></li>
         <li>Make the perfect milk tea (without using some powdered creamer!)</li>

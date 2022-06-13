@@ -67,6 +67,7 @@ module.exports = {
         trackingId: `G-EJ4YJQGFG0`,
       },
     },
+    `gatsby-plugin-image`,
     `gatsby-plugin-sass`,
     `gatsby-transformer-sharp`, 
     `gatsby-plugin-sharp`,

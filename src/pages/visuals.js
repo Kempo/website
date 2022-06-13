@@ -1,6 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import Img from 'gatsby-image';
+import { GatsbyImage } from "gatsby-plugin-image";
 import Layout from '../components/layout';
 import SEO from '../components/SEO';
 
@@ -8,18 +8,26 @@ function Visuals({ data }) {
   return (
     <Layout>
       <SEO title="Visuals" />
-      <Img fluid={data.Dustballs.childImageSharp.fluid} alt="Dustballs from Spirited Away" />
+      <GatsbyImage
+        image={data.Dustballs.childImageSharp.gatsbyImageData}
+        alt="Dustballs from Spirited Away" />
+        <br />
+      <GatsbyImage
+        image={data.Kobe.childImageSharp.gatsbyImageData}
+        alt="Michael Jordan guarding Kobe Bryant" />
     </Layout>
-  )
+  );
 }
 
-export const query = graphql`
-query {
+export const query = graphql`{
   Dustballs: file(relativePath: {eq: "spirited-away-dust.jpg"}) {
     childImageSharp {
-      fluid {
-        ...GatsbyImageSharpFluid_withWebp
-      }
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  Kobe: file(relativePath: {eq: "kobe.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
     }
   }
 }

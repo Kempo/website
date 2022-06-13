@@ -1,7 +1,7 @@
 import React from "react";
-import { graphql } from "gatsby";
 import Layout from '../components/layout';
 import SEO from '../components/SEO';
+import { StaticImage } from "gatsby-plugin-image";
 
 function Home({ data }) {
   return (
@@ -9,6 +9,12 @@ function Home({ data }) {
       <SEO />
       <div style={{ marginBottom: 24 }}>
         <p><strong>Now</strong></p>
+        <StaticImage 
+          src="../assets/me.jpg" 
+          alt="Myself"       
+          placeholder="blurred"
+          layout="fixed"
+          width={275} />
         <p style={{ maxWidth: 500, width: '100%' }}> 
           Hey! My name's Aaron. I code a bit, hoop a little, and (<i>try to</i>) read often.
           On my free time, I cross up neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food.
@@ -40,24 +46,24 @@ function Home({ data }) {
         </ul>
       </div>
     </Layout>
-  )
+  );
 }
 
-export const query = graphql`
-  query FetchPosts {
-    MdxFiles: allMdx {
-      edges {
-        node {
-          frontmatter {
-            title
-            date
-            path
-            publish
-          }
-        }
-      }
-    }
-  }
-`;
+// export const query = graphql`
+//   query FetchPosts {
+//     MdxFiles: allMdx {
+//       edges {
+//         node {
+//           frontmatter {
+//             title
+//             date
+//             path
+//             publish
+//           }
+//         }
+//       }
+//     }
+//   }
+// `;
 
 export default Home;
