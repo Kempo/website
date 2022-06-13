@@ -73,6 +73,7 @@ function Books() {
       <p>From cinematic directors to musical composers and basketball players.</p>
       <hr style={{ width: 30, margin: '24px 0px' }}/>
       <ul>
+        <li>Wong Kar-wai</li>
         <li>Zach Hemsey</li>
         <li>Christopher Nolan</li>
         <li>Ridley Scott</li>

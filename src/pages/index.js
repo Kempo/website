@@ -19,10 +19,9 @@ function Home({ data }) {
         <p><strong>Backyard</strong></p>
         <p>Stuff I like (a brief list).</p>
         <ul>
+          <li><a href="https://www.rottentomatoes.com/m/in_the_mood_for_love_2001">In the Mood for Love (movie)</a></li>
           <li><a href="https://www.youtube.com/watch?v=6BPKPb_RTwI">Drive My Car (trailer)</a></li>
-          <li><a href="https://www.youtube.com/watch?v=oihHs2Errwk">Burning (trailer)</a></li>
-          <li><a href="https://www.youtube.com/watch?v=CQXSforT_qQ">If Beale Street Could Talk (trailer)</a></li>
-          <li><a href="https://www.youtube.com/watch?v=Ubjylmxrj9o">A Catalogue of Afternoons (music)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=0qz0IJXQ720">Beach House (music)</a></li>
           <li><a href="https://www.lauraberger.com/">Laura Berger (art)</a></li>
           <li><a href="https://www.aimeleondore.com/">Aime Leon Dore (clothing)</a></li>
           <li><a href="https://www.youtube.com/watch?v=6BPKPb_RTwI">Drive My Car (movie)</a></li>
