@@ -16,7 +16,6 @@ function Layout({ children }) {
             <ul>
               <li><Link to="/bookshelf">Bookshelf</Link></li>
               <li><Link to="/visuals">Visuals</Link></li>
-              <li><Link to="/checklist">Checklist</Link></li>
             </ul>
           </div>
         </header>

@@ -15,6 +15,10 @@ function Visuals({ data }) {
       <GatsbyImage
         image={data.Kobe.childImageSharp.gatsbyImageData}
         alt="Michael Jordan guarding Kobe Bryant" />
+        <br />
+      <GatsbyImage
+        image={data.Mood.childImageSharp.gatsbyImageData}
+        alt="Tony Leung in 'In the Mood for Love'" />
     </Layout>
   );
 }
@@ -26,6 +30,11 @@ export const query = graphql`{
     }
   }
   Kobe: file(relativePath: {eq: "kobe.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  Mood: file(relativePath: {eq: "in-the-mood-for-love.jpeg"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
     }
