@@ -29,11 +29,10 @@ function Home({ data }) {
         <p>Stuff I like (a brief list).</p>
         <ul>
           <li><a href="https://www.rottentomatoes.com/m/in_the_mood_for_love_2001">In the Mood for Love (movie)</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6BPKPb_RTwI">Drive My Car (trailer)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=6BPKPb_RTwI">Drive My Car (movie)</a></li>
           <li><a href="https://www.youtube.com/watch?v=0qz0IJXQ720">Beach House (music)</a></li>
           <li><a href="https://www.lauraberger.com/">Laura Berger (art)</a></li>
           <li><a href="https://www.aimeleondore.com/">Aime Leon Dore (clothing)</a></li>
-          <li><a href="https://www.youtube.com/watch?v=6BPKPb_RTwI">Drive My Car (movie)</a></li>
           <li><a href="https://www.instagram.com/ilcorvopasta/?hl=en">Il Corvo (food)</a></li>
           <li><a href="https://www.muji.com/">Muji (clothing)</a></li>
           <li><a href="https://www.youtube.com/c/Shiftteamhq">In the Lab (basketball)</a></li>
@@ -43,7 +42,6 @@ function Home({ data }) {
         <p><strong>Pending</strong></p>
         <p>Stuff I'm looking to read.</p>
         <ul>
-          <li><a href="https://www.goodreads.com/book/show/37638098-creative-selection">Creative Selection (Ken Kocienda)</a></li>
           <li><a href="https://www.goodreads.com/book/show/42036377-where-is-my-flying-car">Where is my Flying Car? (Hall)</a></li>
           <li><a href="https://www.goodreads.com/book/show/88546.Forbidden_Nation">Forbidden Nation: A History of Taiwan</a></li>
         </ul>
