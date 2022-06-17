@@ -12,12 +12,10 @@ export default function Checklist() {
       <ul>
         <li>Roden Crater by James Turrell</li>
         <li>Jazz cafe's in Japan</li>
-        <li>Max Richter concert</li>
+        <li>Go to a Max Richter concert</li>
         <li>Cannes / Sundance Film Festival</li>
         <li>Be a film extra</li>
-        <li>Hikaru Museum</li>
-        <li>Mulholland Drive</li>
-        <li>Hollyhock House</li>
+        <li>Hikaru Museum, Mulholland Drive, Hollyhock House</li>
         <li><s>NYC Comedy Clubs</s></li>
         <li>Try out pinsa </li>
         <li>Try true Chicago deep dish (Pequods!?)</li>
@@ -39,6 +37,8 @@ export default function Checklist() {
         <li>Watch the Before Trilogy with Ethan Hawke (2/3 there)</li>
         <li>Meet and genuinely learn the life of someone near end-of-life</li>
         <li>Test screen movies</li>
+        <li>Visit the Park Hyatt in Tokyo and sit at the New York bar</li>
+        <li>Go to a Beach House concert</li>
       </ul>
     </Layout>
   )
