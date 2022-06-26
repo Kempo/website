@@ -34,7 +34,7 @@ export default function Checklist() {
         <li>Make a wooden spoon</li>
         <li>Go to a Q&A with Chrisopher Nolan</li>
         <li>Learn to play the Up soundtrack on piano (and thus relearn the piano!)</li>
-        <li>Watch the Before Trilogy with Ethan Hawke (2/3 there)</li>
+        <li><s>Watch the Before Trilogy with Ethan Hawke & Julie Delpy</s></li>
         <li>Meet and genuinely learn the life of someone near end-of-life</li>
         <li>Test screen movies</li>
         <li>Visit the Park Hyatt in Tokyo and sit at the New York bar</li>
