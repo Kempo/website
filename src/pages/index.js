@@ -1,7 +1,9 @@
 import React from "react";
+import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 import SEO from '../components/SEO';
 import { StaticImage } from "gatsby-plugin-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 import './index.scss';
 
 function Home({ data }) {
@@ -9,7 +11,8 @@ function Home({ data }) {
     <Layout>  
       <SEO />
       <div style={{ marginBottom: 24 }}>
-        <p><strong>Now</strong></p>
+        <p><strong>About</strong></p>
+        {/*
         <div className="profile">
           <StaticImage 
           src="../assets/me.jpg" 
@@ -17,7 +20,7 @@ function Home({ data }) {
           placeholder="blurred"
           layout="fixed"
           width={275} />
-        </div>
+        </div>*/}
         <p style={{ maxWidth: 500, width: '100%' }}> 
           Hey! My name's Aaron. I code a bit, hoop a little, and (<i>try to</i>) read often.
           On my free time, I cross up neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food.
@@ -25,7 +28,24 @@ function Home({ data }) {
         <a href="https://twitter.com/tweetsbychen" style={{ marginRight: 12 }}>Twitter</a>
         <a href="mailto:ilestkempo@gmail.com" style={{ marginRight: 12 }}>Email</a>
         <a href="https://github.com/kempo">Github</a>
-        <p><strong>Backyard</strong></p>
+        <br />
+        <br />
+        <GatsbyImage
+          image={data.Kobe.childImageSharp.gatsbyImageData}
+          alt="Michael Jordan guarding Kobe Bryant" />
+          <br />
+          <GatsbyImage
+          image={data.Dustballs.childImageSharp.gatsbyImageData}
+          alt="Dustballs from Spirited Away" />
+          <br />
+        <GatsbyImage
+          image={data.Mood.childImageSharp.gatsbyImageData}
+          alt="Tony Leung in 'In the Mood for Love'" />
+          <br />
+        <GatsbyImage
+          image={data.Cigarettes.childImageSharp.gatsbyImageData}
+          alt="Cigarettes scene in 'Drive My Car'" />
+        {/*
         <p>Stuff I like (a brief list).</p>
         <ul>
           <li><a href="https://www.rottentomatoes.com/m/in_the_mood_for_love_2001">In the Mood for Love (movie)</a></li>
@@ -38,17 +58,37 @@ function Home({ data }) {
           <li><a href="https://www.youtube.com/c/Shiftteamhq">In the Lab (basketball)</a></li>
           <li><a href="https://www.rottentomatoes.com/m/dune_2021">Dune (movie)</a></li>
           <li><a href="https://www.rottentomatoes.com/m/nocturnal_animals">Nocturnal Animals (movie)</a></li>
-        </ul>
-        <p><strong>Pending</strong></p>
-        <p>Stuff I'm looking to read.</p>
-        <ul>
-          <li><a href="https://www.goodreads.com/book/show/42036377-where-is-my-flying-car">Where is my Flying Car? (Hall)</a></li>
-          <li><a href="https://www.goodreads.com/book/show/88546.Forbidden_Nation">Forbidden Nation: A History of Taiwan</a></li>
-        </ul>
+  </ul>*/}
+
       </div>
     </Layout>
   );
 }
+
+export const query = graphql`{
+  Dustballs: file(relativePath: {eq: "spirited-away-dust.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  Kobe: file(relativePath: {eq: "kobe.jpg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  Mood: file(relativePath: {eq: "in-the-mood-for-love.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  Cigarettes: file(relativePath: {eq: "cigarettes.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+}
+`;
+
 
 // export const query = graphql`
 //   query FetchPosts {
