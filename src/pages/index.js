@@ -11,7 +11,7 @@ function Home({ data }) {
     <Layout>  
       <SEO />
       <div style={{ marginBottom: 24 }}>
-        <p><strong>About</strong></p>
+        <p><strong>Me</strong></p>
         {/*
         <div className="profile">
           <StaticImage 
