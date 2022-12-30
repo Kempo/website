@@ -35,6 +35,10 @@ function Home({ data }) {
           alt="Michael Jordan guarding Kobe Bryant" />
           <br />
           <GatsbyImage
+          image={data.Taipei.childImageSharp.gatsbyImageData}
+          alt="Fujifilm scene from 'Taipei Story'" />
+          <br />
+          <GatsbyImage
           image={data.Dustballs.childImageSharp.gatsbyImageData}
           alt="Dustballs from Spirited Away" />
           <br />
@@ -82,6 +86,11 @@ export const query = graphql`{
     }
   }
   Cigarettes: file(relativePath: {eq: "cigarettes.jpeg"}) {
+    childImageSharp {
+      gatsbyImageData(layout: FULL_WIDTH)
+    }
+  }
+  Taipei: file(relativePath: {eq: "taipei-story.png"}) {
     childImageSharp {
       gatsbyImageData(layout: FULL_WIDTH)
     }
