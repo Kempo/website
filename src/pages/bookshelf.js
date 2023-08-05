@@ -68,7 +68,7 @@ function Books() {
         <li><a href="https://moxie.org/stories.html">Stories of Life (Moxie Marlinspike)</a></li>
         <li><a href="https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance">Zen and the Art of Motorcycle Maintenance</a></li>
         <li><a href="https://www.goodreads.com/book/show/18774964-a-man-called-ove">A Man Called Ove</a></li>
-        <lia href="http://www.aaronsw.com/weblog/dweck">Believe you can change (Aaron Swartz)</li>
+        <li><a href="http://www.aaronsw.com/weblog/dweck">Believe you can change (Aaron Swartz)</a></li>
       </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
