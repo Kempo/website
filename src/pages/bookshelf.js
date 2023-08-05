@@ -22,6 +22,8 @@ function Books() {
       </ul>
       <p><strong>Texts</strong></p>
       <ul>
+        <li><a href="https://www.goodreads.com/book/show/15823480-anna-karenina"><strong>Anna Karenina (Leo Tolstoy)</strong></a></li>
+        <li><a href="https://www.goodreads.com/cs/book/show/14817">A Scanner Darkly (Philip K. Dick)</a></li>
         <li><a href="https://www.goodreads.com/book/show/28922.An_Artist_of_the_Floating_World">An Artist of the Floating World (Kazuo Ishiguro)</a></li>
         <li>Kevin Kelly's <a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">bits</a> <a href="https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/">of</a> <a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">advice</a></li>
         <li><a href="http://www.metastatic.org/text/This%20is%20Water.pdf"><b>This is Water (David Foster Wallace)</b></a></li>
