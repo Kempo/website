@@ -12,14 +12,6 @@ function Books() {
         <br />
         From software to entrepreneurship, to the human condition.
       </p>
-      <p><strong>Talks</strong></p>
-      <ul>
-        <li><a href="https://tim.blog/2016/10/27/david-heinemeier-hansson/">David Heinemeier Hansson</a></li>
-        <li><a href="https://www.youtube.com/watch?v=3qHkcs3kG44">Naval Ravikant</a></li>
-        <li><a href="https://www.youtube.com/watch?v=efs3QRr8LWw">Edward Snowden</a></li>
-        <li><a href="https://www.perell.com/podcast/jason-fried">Jason Fried</a></li>
-        <li><a href="https://www.youtube.com/watch?v=ji5_MqicxSo">Randy Pausch</a></li>
-      </ul>
       <p><strong>Texts</strong></p>
       <ul>
         <li><a href="https://www.goodreads.com/book/show/15823480-anna-karenina"><strong>Anna Karenina (Leo Tolstoy)</strong></a></li>
@@ -70,6 +62,14 @@ function Books() {
         <li><a href="https://www.goodreads.com/book/show/18774964-a-man-called-ove">A Man Called Ove</a></li>
         <li><a href="http://www.aaronsw.com/weblog/dweck">Believe you can change (Aaron Swartz)</a></li>
       </ul>
+      <p><strong>Talks</strong></p>
+      <ul>
+        <li><a href="https://tim.blog/2016/10/27/david-heinemeier-hansson/">David Heinemeier Hansson</a></li>
+        <li><a href="https://www.youtube.com/watch?v=3qHkcs3kG44">Naval Ravikant</a></li>
+        <li><a href="https://www.youtube.com/watch?v=efs3QRr8LWw">Edward Snowden</a></li>
+        <li><a href="https://www.perell.com/podcast/jason-fried">Jason Fried</a></li>
+        <li><a href="https://www.youtube.com/watch?v=ji5_MqicxSo">Randy Pausch</a></li>
+      </ul>
       <p><strong>Artists</strong></p>
       <p>People I admire. </p>
       <p>From cinematic directors to musical composers and basketball players.</p>
@@ -99,6 +99,25 @@ function Books() {
         <li>Jamal Crawford</li>
         <li>Jake Gyllenhaal</li>
       </ul>
+      <p><strong>Film</strong></p>
+      <p>Some films that come to mind (a very non-exhaustive list).</p>
+      <ul>
+        <li>Taipei Story (1985)</li>
+        <li>Yi Yi (2000)</li>
+        <li>Oppenheimer (2023)</li>
+        <li>In the Mood for Love (2000)</li>
+        <li>Chungking Express (1994)</li>
+        <li>Edge of Tomorrow (2014)</li>
+        <li>The Godfather (1972)</li>
+        <li>Inception (2010)</li>
+        <li>Shawshank Redemption (1994)</li>
+        <li>Gone Girl (2014)</li>
+        <li>Totoro (1988)</li>
+        <li>Porco Rosso (1992)</li>
+        <li>The Dark Knight (2008)</li>
+        <li>Dune (2021)</li>
+      </ul>
+
     </Layout>
   )
 }
