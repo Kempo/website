@@ -6,8 +6,9 @@ function Books() {
   return (
     <Layout>
       <SEO title="Bookshelf"/>
+      <p><strong>Bookshelf</strong></p>
       <p>
-        Tidbits of knowledge and people that I've appreciated.
+        Tidbits of knowledge, people, and things that I've appreciated.
         <br />
         <br />
         From software to entrepreneurship, to the human condition.
