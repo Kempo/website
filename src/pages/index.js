@@ -14,11 +14,11 @@ function Home({ data }) {
         <p><strong>Me</strong></p>
         <div className="profile">
           <StaticImage 
-          src="../assets/me_2_smaller.jpg" 
+          src="../assets/me_3.jpg" 
           alt="Myself"       
           placeholder="blurred"
           layout="fixed"
-          width={250} />
+          width={275} />
         </div>
         <p style={{ maxWidth: 500, width: '100%' }}> 
           Hey! My name's Aaron. I code a bit, hoop a little, and (<i>try to</i>) read often.
