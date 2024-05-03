@@ -14,7 +14,7 @@ function Home({ data }) {
         <p><strong>Me</strong></p>
         <div className="profile">
           <StaticImage 
-          src="../assets/me.jpg" 
+          src="../assets/me_2.JPG" 
           alt="Myself"       
           placeholder="blurred"
           layout="fixed"
