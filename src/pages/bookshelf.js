@@ -15,6 +15,7 @@ function Books() {
       </p>
       <p><strong>Texts</strong></p>
       <ul>
+        <li><a href="https://www.goodreads.com/en/book/show/26077627">A Grief Observed (C.S. Lewis)</a></li>
         <li><a href="https://www.goodreads.com/book/show/15823480-anna-karenina"><strong>Anna Karenina (Leo Tolstoy)</strong></a></li>
         <li><a href="https://www.goodreads.com/cs/book/show/14817">A Scanner Darkly (Philip K. Dick)</a></li>
         <li><a href="https://www.goodreads.com/book/show/28922.An_Artist_of_the_Floating_World">An Artist of the Floating World (Kazuo Ishiguro)</a></li>
@@ -117,6 +118,7 @@ function Books() {
         <li>Porco Rosso (1992)</li>
         <li>The Dark Knight (2008)</li>
         <li>Dune (2021)</li>
+        <li>Dune 2 (2024)</li>
       </ul>
 
     </Layout>
