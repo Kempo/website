@@ -1,6 +1,6 @@
-import React from 'react';
-import Layout from "../components/layout";
-import SEO from "../components/SEO";
+import React from "react"
+import Layout from "../components/layout"
+import SEO from "../components/SEO"
 
 export default function Checklist() {
   return (
@@ -8,15 +8,22 @@ export default function Checklist() {
       <SEO title="Checklist" />
       <p>Generally, places I'd like to visit or things I'd like to do.</p>
       <p>Subject to change.</p>
-      <p><b>List</b></p>
+      <p>
+        <b>List</b>
+      </p>
       <ul>
         <li>Roden Crater by James Turrell</li>
         <li>Jazz cafe's in Japan</li>
         <li>Go to a Max Richter concert</li>
         <li>Cannes / Sundance Film Festival</li>
         <li>Be a film extra</li>
-        <li>Hikaru Museum, Mulholland Drive, Hollyhock House</li>
-        <li><s>NYC Comedy Clubs</s></li>
+        <li>Hikaru Museum</li>
+        <li>
+          <s>Mulholland Drive, Hollyhock House</s>
+        </li>
+        <li>
+          <s>NYC Comedy Clubs</s>
+        </li>
         <li>Try out pinsa </li>
         <li>Try true Chicago deep dish (Pequods!?)</li>
         <li>Learn a style of dancing (salsa?)</li>
@@ -29,12 +36,20 @@ export default function Checklist() {
         <li>Do 30 pull ups</li>
         <li>Visit India (try the chai & curries)</li>
         <li>Own a study cafe near a college</li>
-        <li><s>Make pasta from scratch</s></li>
-        <li>Make the perfect milk tea (without using some powdered creamer!)</li>
+        <li>
+          <s>Make pasta from scratch</s>
+        </li>
+        <li>
+          Make the perfect milk tea (without using some powdered creamer!)
+        </li>
         <li>Make a wooden spoon</li>
         <li>Go to a Q&A with Chrisopher Nolan</li>
-        <li>Learn to play the Up soundtrack on piano (and thus relearn the piano!)</li>
-        <li><s>Watch the Before Trilogy with Ethan Hawke & Julie Delpy</s></li>
+        <li>
+          Learn to play the Up soundtrack on piano (and thus relearn the piano!)
+        </li>
+        <li>
+          <s>Watch the Before Trilogy with Ethan Hawke & Julie Delpy</s>
+        </li>
         <li>Meet and genuinely learn the life of someone near end-of-life</li>
         <li>Test screen movies</li>
         <li>Visit the Park Hyatt in Tokyo and sit at the New York bar</li>
