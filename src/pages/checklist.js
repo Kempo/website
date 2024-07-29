@@ -12,21 +12,31 @@ export default function Checklist() {
         <b>List</b>
       </p>
       <ul>
+        <li>
+          Try out making movie trailers (Create London, Trailer Park Group,
+          MOCEAN, Golden Trailer)
+        </li>
+        <li>
+          Try out making a shoe (detachable soles for durability? basketball
+          shoes are a huge waste)
+        </li>
+        <li>Stage at a nice restaurant (one you admire)</li>
         <li>Roden Crater by James Turrell</li>
         <li>Jazz cafe's in Japan</li>
         <li>Go to a Max Richter concert</li>
         <li>Cannes / Sundance Film Festival</li>
         <li>Be a film extra</li>
         <li>Hikaru Museum</li>
+        <li>Muholland Drive</li>
         <li>
-          <s>Mulholland Drive, Hollyhock House</s>
+          <s>Hollyhock House</s>
         </li>
         <li>
           <s>NYC Comedy Clubs</s>
         </li>
         <li>Try out pinsa </li>
         <li>Try true Chicago deep dish (Pequods!?)</li>
-        <li>Learn a style of dancing (salsa?)</li>
+        <li>Learn a style of dancing (house dancing!)</li>
         <li>Learn to make an 18oz+ french terry hoodie</li>
         <li>Learn how to make ceramics (ie. cups)</li>
         <li>Thrifting in Shibuya</li>
@@ -44,6 +54,7 @@ export default function Checklist() {
         </li>
         <li>Make a wooden spoon</li>
         <li>Go to a Q&A with Chrisopher Nolan</li>
+        <li>Go to a Q&A with Denis Villenueve</li>
         <li>
           Learn to play the Up soundtrack on piano (and thus relearn the piano!)
         </li>
