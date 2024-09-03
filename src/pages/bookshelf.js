@@ -43,8 +43,13 @@ function Books({ data }) {
       </p>
       <ul>
         <li>
+          <a href="https://www.goodreads.com/book/show/2122.The_Fountainhead">
+            <strong>The Fountainhead (Ayn Rand)</strong>
+          </a>
+        </li>
+        <li>
           <a href="https://www.goodreads.com/book/show/13136146-the-listening-book">
-            <strong>The Listening Book (W.A. Mathieu)</strong>
+            The Listening Book (W.A. Mathieu)
           </a>
         </li>
         <li>
@@ -371,6 +376,7 @@ function Books({ data }) {
       </p>
       <p>Some films that come to mind (a very non-exhaustive list).</p>
       <ul>
+        <li>Cure (1997)</li>
         <li>Taipei Story (1985)</li>
         <li>Yi Yi (2000)</li>
         <li>Oppenheimer (2023)</li>
