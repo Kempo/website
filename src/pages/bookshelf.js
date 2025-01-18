@@ -349,7 +349,7 @@ function Books({ data }) {
       <ul>
         <li>Edward Yang</li>
         <li>Wong Kar-wai</li>
-        <li>Zach Hemsey</li>
+        <li>Ryuichi Sakamoto</li>
         <li>Christopher Nolan</li>
         <li>Ridley Scott</li>
         <li>Ramin Djawadi</li>
@@ -362,8 +362,6 @@ function Books({ data }) {
         <li>Wes Anderson</li>
         <li>Max Richter</li>
         <li>Daniel Day-Lewis</li>
-        <li>Ludovico Einaudi</li>
-        <li>James Turrell</li>
         <li>Kazuo Ishiguro</li>
         <li>Laura Berger</li>
         <li>Paul Graham</li>
