@@ -16,11 +16,11 @@ function Home({ data }) {
         </p>
         <div className="profile">
           <StaticImage
-            src="../assets/me_3.jpg"
+            src="../assets/me_4.jpg"
             alt="Myself"
             placeholder="blurred"
             layout="fixed"
-            width={275}
+            width={300}
           />
         </div>
         <p style={{ maxWidth: 500, width: "100%" }}>
