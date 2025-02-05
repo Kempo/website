@@ -37,7 +37,7 @@ function Home({ data }) {
         </a>
         <a href="https://github.com/kempo">Github</a>
         <p style={{ marginBottom: 0, color: "#adadad", fontSize: "12px" }}>
-          <i>Last Updated Dec 2024</i>
+          <i>Last Updated Feb 2025</i>
         </p>
         <br />
         <br />
