@@ -95,9 +95,6 @@ function Books({ data }) {
           </a>
         </li>
         <li>
-          <a href="https://andymatuschak.org/books/">Andy Matsuchak on Books</a>
-        </li>
-        <li>
           <a href="https://sive.rs/kimo">
             <b>There is no speed limit (Derek Sivers)</b>
           </a>
@@ -125,11 +122,6 @@ function Books({ data }) {
         <li>
           <a href="https://www.goodreads.com/book/show/2547.The_Prophet">
             The Prophet (Gibran Khalil)
-          </a>
-        </li>
-        <li>
-          <a href="https://www.navalmanack.com/">
-            The Navalmanack (Eric Jorgenson & Naval Ravikant)
           </a>
         </li>
         <li>
@@ -193,11 +185,6 @@ function Books({ data }) {
           </a>
         </li>
         <li>
-          <a href="https://www.goodreads.com/book/show/6321411-something-incredibly-wonderful-happens">
-            <b>Something wonderfully incredible happens (Frank Oppenheimer)</b>
-          </a>
-        </li>
-        <li>
           <a href="https://www.theobservereffect.org/tobi.html">
             <b>Interview with Tobi Lutke</b>
           </a>
@@ -225,11 +212,6 @@ function Books({ data }) {
         <li>
           <a href="https://www.goodreads.com/book/show/41793.Hackers_Painters">
             Hackers and Painters (Paul Graham)
-          </a>
-        </li>
-        <li>
-          <a href="https://www.goodreads.com/book/show/23281639-the-upside-of-stress">
-            <b>The Upside of Stress (Kelly McGonigal)</b>
           </a>
         </li>
         <li>
@@ -297,16 +279,6 @@ function Books({ data }) {
           </a>
         </li>
         <li>
-          <a href="https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance">
-            Zen and the Art of Motorcycle Maintenance
-          </a>
-        </li>
-        <li>
-          <a href="https://www.goodreads.com/book/show/18774964-a-man-called-ove">
-            A Man Called Ove
-          </a>
-        </li>
-        <li>
           <a href="http://www.aaronsw.com/weblog/dweck">
             Believe you can change (Aaron Swartz)
           </a>
@@ -356,7 +328,6 @@ function Books({ data }) {
         <li>Hans Zimmer</li>
         <li>Clint Mansell</li>
         <li>Haruki Murakami</li>
-        <li>The Beatles</li>
         <li>Kobe Bryant</li>
         <li>Teddy Santis</li>
         <li>Wes Anderson</li>
