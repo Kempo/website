@@ -34,14 +34,16 @@ function Books({ data }) {
       </p>
       <p>
         Tidbits of knowledge, people, and things that I've appreciated.
-        <br />
-        <br />
-        From software to entrepreneurship, to the human condition.
       </p>
       <p>
         <strong>Texts</strong>
       </p>
       <ul>
+        <li>
+          <a href="https://www.lewissociety.org/innerring/">
+            <strong>The Inner Ring (C.S. Lewis)</strong>
+          </a>
+        </li>
         <li>
           <a href="https://www.goodreads.com/book/show/2122.The_Fountainhead">
             <strong>The Fountainhead (Ayn Rand)</strong>
@@ -82,6 +84,11 @@ function Books({ data }) {
           </a>{" "}
           <a href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/">
             advice
+          </a>
+        </li>
+        <li>
+          <a href="https://www.goodreads.com/book/show/662.Atlas_Shrugged">
+            <strong>Atlas Shrugged (Ayn Rand)</strong>
           </a>
         </li>
         <li>
@@ -345,12 +352,13 @@ function Books({ data }) {
       </p>
       <p>Some films that come to mind (a very non-exhaustive list).</p>
       <ul>
+        <li>Magnolia (1999)</li>
+        <li>Shall We Dance? (1996)</li>
         <li>Tampopo (1985)</li>
         <li>Cure (1997)</li>
         <li>Taipei Story (1985)</li>
         <li>Yi Yi (2000)</li>
         <li>Oppenheimer (2023)</li>
-        <li>In the Mood for Love (2000)</li>
         <li>Chungking Express (1994)</li>
         <li>Edge of Tomorrow (2014)</li>
         <li>The Godfather (1972)</li>
@@ -358,7 +366,6 @@ function Books({ data }) {
         <li>Shawshank Redemption (1994)</li>
         <li>Gone Girl (2014)</li>
         <li>Totoro (1988)</li>
-        <li>Porco Rosso (1992)</li>
         <li>The Dark Knight (2008)</li>
         <li>Dune (2021)</li>
         <li>Dune 2 (2024)</li>
