@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EJ4YJQGFG0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-EJ4YJQGFG0');
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="preconnect" href="https://rsms.me/">
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+  <link rel="icon" type="image/x-icon" href="/assets/favicon.png">
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="Hey! My name's Aaron. I code a bit, hoop a little, and (try to) read often. On my free time, I cross up
+            neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food." />
+  <meta property=" og:type" content="website" />
+  <meta property="og:url" content="https://adchen.co" />
+  <meta name="description" content="Hey! My name's Aaron. I code a bit, hoop a little, and (try to) read often. On my free time, I cross up
+            neighborhood kids at the court and love watching confusing movies. I also only ever cook Italian food." />
+  <meta name="twitter:title" content="{{ page.title }}" />
+</head>
+
+<body>
+  {% include navigation.html %}
+  {{ content }}
+</body>
+
+</html>
